@@ -21,7 +21,7 @@
 
 B.Tech Computer Science student at **Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**. I work on AI/ML systems end to end: designing architectures, training models, evaluating them honestly, and making them run efficiently. My focus is computer vision and medical image analysis, language models, and efficient inference.
 
-I'm looking for **international AI/ML engineering internships, research engineering roles and research collaborations**.
+I'm looking for **AI/ML engineering internships, research engineering roles and research collaborations**.
 
 <br />
 
